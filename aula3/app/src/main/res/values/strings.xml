@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JOGO ADIVINHA O NÚMERO</string>
+    <string name="write_number">DIGITE UM NÚMERO: </string>
+    <string name="texto2">Acertou!</string>
+    <string name="texto3">Errou! É menor.</string>
+    <string name="texto4">Errou! É maior.</string>
+</resources>
